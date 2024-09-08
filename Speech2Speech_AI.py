@@ -4,7 +4,9 @@ from openai import OpenAI
 
 class AI_Caller:
     def __init__(self):
-
+        #AssemblyAI API Key
+        #openai_api_key
+        #elevenlabs_api_key
 
         self.transcriber = None
 
